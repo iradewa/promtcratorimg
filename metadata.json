@@ -1,0 +1,6 @@
+{
+  "name": "AI Character Prompt Generator",
+  "description": "A web application to generate detailed prompts for AI image creators to achieve consistent character designs. Users input character attributes, and the app uses Gemini to refine these into an effective image generation prompt.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
